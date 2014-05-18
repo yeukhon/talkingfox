@@ -1,0 +1,12 @@
+{
+  "name": "project3",
+  "title": "project3",
+  "id": "jid1-gCJM7Pyucs496g",
+  "description": "a basic add-on",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "permissions": {
+      "unsafe-content-script": true
+  }
+}
